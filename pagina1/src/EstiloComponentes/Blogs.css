@@ -1,0 +1,46 @@
+.Blogs{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right, #001e29, #0274a5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.Titulo-Blog{
+    position: relative;
+    bottom: 250px;
+    left: 10px;
+    color: #fff;
+}
+.Contenedor-General{
+    border: 3px solid #000;
+    display: flex;
+    position: relative;
+    top: 40px;
+    width: 90%;
+    height: 400px;
+}
+.imagen-testimonio{
+    display: flex;
+    justify-content: flex-start;
+    width: 398px;
+    height: 395px;
+  
+}
+.titulo-contenedor{
+    position: relative;
+    display: flex;
+    left: 450px;
+    align-items: center;
+    justify-content: center; 
+}
+.texto-testimonio{
+    position: relative;
+    justify-content: flex-end;
+    margin: 0 20px;
+    text-align: justify;
+    font-size: medium;
+    color: #fff;
+}

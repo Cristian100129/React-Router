@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Contenedor-principal{
+    /* background-color: #1b1b32; */
+    background: linear-gradient(to right, #001e29, #0274a5);
+    height: 1300px;
+}
+.Encabezado-Inicio{
+    position: relative;
+    display: flex;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top: 80px;
+    padding: 40px;
+}
+.Sub-Encabezado{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    top: 70px;
+    margin-bottom: 120px;
+}
